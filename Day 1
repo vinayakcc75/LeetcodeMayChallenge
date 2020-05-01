@@ -1,5 +1,7 @@
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
+//imagine the arr to be like 00000111
+// we have to find first 1 in this sorted 0,1 arr.
 
 class Solution {
 public:
